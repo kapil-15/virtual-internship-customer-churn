@@ -12,8 +12,8 @@ This repository contains data and analysis for a virtual internship project focu
   - `raw/`: Contains the original, unprocessed datasets.
   - `processed/`: Contains cleaned and transformed datasets ready for analysis.
 - **`notebooks/`**: Jupyter notebooks for step-by-step analysis and model building.
-  - `1-customer-churn-analysis.ipynb`: Exploratory Data Analysis (EDA) to understand customer churn patterns.
-  - `2-feature-engineering.ipynb`: Feature extraction and transformation techniques.
+  - `1-Task 2 - eda_starter.ipynb`: Exploratory Data Analysis (EDA) to understand customer churn patterns.
+  - `Task 3 - feature_engineering.ipynb`: Feature extraction and transformation techniques.
   - `3-predictive-model-building.ipynb`: Building and evaluating predictive models.
 - **`models/`**: Saved models used or developed during the project.
 - **`scripts/`**: Python scripts for reproducible workflows and automation.
