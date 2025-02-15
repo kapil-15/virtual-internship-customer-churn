@@ -35,7 +35,7 @@ This repository contains data and analysis for a virtual internship project focu
 ### Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/virtual-internship-customer-churn.git
+git clone https://github.com/kapil-15/virtual-internship-customer-churn.git
 ```
 
 ### Folder Setup
