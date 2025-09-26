@@ -35,7 +35,7 @@ This repository contains data and analysis for a virtual internship project focu
 ### Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/virtual-internship-customer-churn.git
+git clone https://github.com/kapil-15/virtual-internship-customer-churn.git
 ```
 
 ### Folder Setup
@@ -89,5 +89,3 @@ pip install -r requirements.txt
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-For any questions or feedback, feel free to reach out to [your_email@example.com].
